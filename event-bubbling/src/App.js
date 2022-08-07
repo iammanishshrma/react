@@ -8,6 +8,7 @@ const App = () => {
     event.stopPropagation();
     alert("button");
   };
+
   return (
     <div
       style={{
